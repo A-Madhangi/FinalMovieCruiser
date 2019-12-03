@@ -1,0 +1,22 @@
+
+.body-main th
+{
+text-align:left;
+padding-top:20px;
+}
+.body-main td
+{
+text-align:left;
+}
+button[type="submit"]
+{
+padding-top:15px;
+padding-bottom:15px;
+padding-left:15px;
+padding-right:15px;
+background-color:#004080;
+color:white;
+border:0;
+
+}              
+
